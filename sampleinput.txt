@@ -1,0 +1,46 @@
+4
+AC-CG
+A-GCG
+ATACT
+C--CG
+
+
+
+
+
+5
+ACA---ATG
+TCAACTATC
+ACAC--AGC
+AGA---ATC
+ACCG--ATC
+ACAATG
+
+
+//score= 0.032768
+//tested only final value with log
+
+5
+AGTAAC-
+A----CT
+CGAG--G
+----T-G
+AG--ACG
+AGTTCG
+
+//score= 0.000530594
+//tested only final value with log
+
+
+//Test extreme cases
+
+
+    Convenient verification
+    Accurate verification
+    Time-efficient
+    Identitifying characteristics can be stored
+    Large databases can be accessed to verify identities
+
+
+
+Often we are interested in finding patterns which appear over a space of time. These patterns occur in many areas; the pattern of commands someone uses in instructing a computer, sequences of words in sentences, the sequence of phonemes in spoken words - any area where a sequence of events occurs could produce useful patterns. 
