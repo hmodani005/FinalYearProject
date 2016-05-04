@@ -1,0 +1,4 @@
+supervised and unsupervised technique?? 
+which one is ours.
+Hidden markov model with an explanation
+
